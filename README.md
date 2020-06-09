@@ -1,5 +1,7 @@
 # Best Time to Post Technology Content Online
 
+Author: David Rodrigues. Date: June 2020.
+
 Technology evolves quickly and requires constant update for the ones following the subject. Professionals and journalists that produce content related to the matter should not only provide relevant information, but also choose the right medium and time to share it.
 
 The aim of this analysis is to verify the best day of the week and time of the day to post technology content online, in order to maximize the level of reach, engagement and comments.
